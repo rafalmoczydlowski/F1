@@ -44,6 +44,13 @@
             <CountryId>2</CountryId>
             <RaceWins>0</RaceWins>
         </Driver>
+        <Driver>
+            <Id>7</Id>
+            <Name>Fernando Alonso</Name>
+            <TeamId>4</TeamId>
+            <CountryId>5</CountryId>
+            <RaceWins>32</RaceWins>
+        </Driver>
     </Drivers>
     <Teams>
         <Team>
@@ -57,6 +64,10 @@
         <Team>
             <Id>3</Id>
             <Name>Williams</Name>
+        </Team>
+        <Team>
+            <Id>4</Id>
+            <Name>McLaren</Name>
         </Team>
     </Teams>
     <Countries>
@@ -75,6 +86,10 @@
         <Country>
             <Id>4</Id>
             <Name>Finland</Name>
+        </Country>
+        <Country>
+            <Id>5</Id>
+            <Name>Spain</Name>
         </Country>
     </Countries>
 </template_data>
