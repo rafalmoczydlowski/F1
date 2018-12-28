@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<template_data>
+    <Drivers>
+        <Driver>
+            <Id>1</Id>
+            <Name>Lewis Hamilton</Name>
+            <TeamId>1</TeamId>
+            <CountryId>2</CountryId>
+            <RaceWins>70</RaceWins>
+        </Driver>
+        <Driver>
+            <Id>2</Id>
+            <Name>Sebastian Vettel</Name>
+            <TeamId>2</TeamId>
+            <CountryId>3</CountryId>
+            <RaceWins>52</RaceWins>
+        </Driver>
+        <Driver>
+            <Id>3</Id>
+            <Name>Valtteri Bottas</Name>
+            <TeamId>1</TeamId>
+            <CountryId>4</CountryId>
+            <RaceWins>3</RaceWins>
+        </Driver>
+        <Driver>
+            <Id>4</Id>
+            <Name>Kimi Raikkonnen</Name>
+            <TeamId>2</TeamId>
+            <CountryId>4</CountryId>
+            <RaceWins>20</RaceWins>
+        </Driver>
+        <Driver>
+            <Id>5</Id>
+            <Name>Robert Kubica</Name>
+            <TeamId>3</TeamId>
+            <CountryId>1</CountryId>
+            <RaceWins>1</RaceWins>
+        </Driver>
+        <Driver>
+            <Id>6</Id>
+            <Name>George Russell</Name>
+            <TeamId>3</TeamId>
+            <CountryId>2</CountryId>
+            <RaceWins>0</RaceWins>
+        </Driver>
+    </Drivers>
+    <Teams>
+        <Team>
+            <Id>1</Id>
+            <Name>Mercedes</Name>
+        </Team>
+        <Team>
+            <Id>2</Id>
+            <Name>Ferrari</Name>
+        </Team>
+        <Team>
+            <Id>3</Id>
+            <Name>Williams</Name>
+        </Team>
+    </Teams>
+    <Countries>
+        <Country>
+            <Id>1</Id>
+            <Name>Poland</Name>
+        </Country>
+        <Country>
+            <Id>2</Id>
+            <Name>Great Britain</Name>
+        </Country>
+        <Country>
+            <Id>3</Id>
+            <Name>Germany</Name>
+        </Country>
+        <Country>
+            <Id>4</Id>
+            <Name>Finland</Name>
+        </Country>
+    </Countries>
+</template_data>
