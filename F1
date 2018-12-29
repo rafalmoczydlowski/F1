@@ -21,7 +21,7 @@
             <Name>Valtteri Bottas</Name>
             <TeamId>1</TeamId>
             <CountryId>4</CountryId>
-            <RaceWins>3</RaceWins>
+            <RaceWins>10</RaceWins>
         </Driver>
         <Driver>
             <Id>4</Id>
