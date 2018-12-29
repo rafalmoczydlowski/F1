@@ -19,6 +19,9 @@
                 </Kierowca>
             </xsl:for-each>
         </Kierowcy>
+        Łączna ilość wygranych wyścigów przez wszystkich kierowców: <xsl:value-of select="sum(template_data/Drivers/Driver/RaceWins)"/>
+
+        Zawodnik z najmniejszą liczbą wygranych to: <xsl:value-of select="template_data/Drivers/Driver[RaceWins=min(../../Drivers/Driver/RaceWins)]/Name"/>
     </xsl:template>
 
 </xsl:stylesheet>
